@@ -15,4 +15,5 @@ results
 *.tar.gz
 *.tar.xz
 *.zip
-*.png
+
+.DS_Store
